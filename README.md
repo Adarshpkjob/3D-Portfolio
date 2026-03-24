@@ -1,2 +1,2 @@
-# 3D-Portfolio
-react,threejs,gsap
+# My 3D Portfolio
+This is my updated portfolio project.
